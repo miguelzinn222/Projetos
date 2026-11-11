@@ -1,11 +1,13 @@
+
+   
 {
-    "name": "compressor_app",
-    "short_name": "compressor_app",
+    "name": "Painel de Controle",
+    "short_name": "Painel de Controle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Sistema de controle e monitoramento do compressor.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
